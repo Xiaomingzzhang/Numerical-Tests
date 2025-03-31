@@ -2,7 +2,6 @@
  
 To run the codes in this repository, first install [julia](https://julialang.org/) and then install the following packages:
 - InvariantManifolds
-- LinearAlgebra
 - StaticArrays
 - OrdinaryDiffEq
 - GLMakie
